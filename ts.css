@@ -1,0 +1,301 @@
+*{
+    margin:0;
+}
+.main{
+    background-image:url(tesla.1.avif) ;
+    height: 800px;
+    width:100vw;
+    background-size: cover;
+   
+
+}
+.logo{
+ width: 120px;
+ padding-left: 40px;
+ padding-top:20px
+}
+.logo img{
+ width: 100%;
+}
+.logo2{
+    padding-right: 40px;
+    padding-top:10px;
+}
+.logo2 img{
+   width:140px;
+
+}
+.navw{
+    display:flex;
+    color: white;
+    font-weight: 1px;
+    padding-top:20px;
+    gap: 30px;
+}
+.navw h6{
+ font-size:15px;
+ font-weight: 1px;
+}
+.nav{
+    height:100px ;
+    width:100vw;
+    
+    background-position: right;
+    display:flex;
+    justify-content: space-between;
+    position: sticky;
+}
+.model-y{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color:#fff;
+    font-size:20px ;
+    
+}
+.oder-now{
+    height:200px;
+    width:600px;
+    padding-left: 500px;
+    padding-top:500px;
+    
+}
+.oder-now button{
+    height: 48px;
+    width: 250px;
+    background-color: #fff;
+    margin-right: 10px;
+    color: #fff;
+    border: 0;
+    background-position: center;
+}
+.main2{
+    background-image: url(tesla\ 2.0.avif);
+    height:800px;
+    width: 100vw;
+    background-size: cover;
+   
+}
+.main2-1{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color:#fff;
+    padding-top:60px;
+    font-size:20px;
+}
+.main-2{
+    height:200px;
+    width:600px;
+    padding-left: 500px;
+    padding-top:500px;
+       
+}
+.main-2 button{
+    height: 48px;
+    width: 250px;
+    background-color: #fff;
+    margin-right: 10px;
+    color: #fff;
+    border: 0;
+    background-position: center;  
+}
+
+.main3{
+    background-image:url(tesla\ 3.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px;
+
+}
+.main3-1{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color:#fff;
+    padding-top:60px;
+    font-size:20px;
+}
+.main-3{
+    height:200px;
+    width:600px;
+    padding-left: 500px;
+    padding-top:500px;
+}
+.main-3 button{
+    height: 48px;
+    width: 250px;
+    background-color: #fff;
+    margin-right: 10px;
+    color: #fff;
+    border: 0;
+    background-position: center; 
+}
+.main4{
+    background-image: url(tesla4.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main4-1{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color:#fff;
+    padding-top:60px;
+    font-size:20px;     
+}
+.main-4{
+    height:200px;
+    width:600px;
+    padding-left: 500px;
+    padding-top:500px;  
+}
+.main-4 button{
+    height: 48px;
+    width: 250px;
+    background-color: #fff;
+    margin-right: 10px;
+    color: #fff;
+    border: 0;
+    background-position: center; 
+       
+}
+.main5{
+    background-image: url(tesla5.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main5-1{
+    width: 100px;
+    height: 300px;
+    padding-left: 35%;
+    padding-top: 120px;
+}
+.main5-1 img{
+height: 200px;
+width:500px
+}
+.main-5{
+height: 100px;
+width:600px;
+padding-left: 30%;
+padding-top:15%;
+display:flex;
+
+
+}
+.main-5 button{
+margin: 10px;
+height: 48px;
+width: 250px;
+background-color: black;
+color:rgba(255, 255, 255, 0.499)
+}
+.main6{
+    background-image: url(tesla6.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main6-1{
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color:#fff;
+    padding-top:60px;
+    font-size:20px;
+    
+}
+.main-6{
+    height: 100px;
+    width:600pxpx;
+    padding-left: 32%;
+    padding-top:32%;
+    display:flex; 
+}
+.main-6 button{
+    height: 48px;
+    width: 250px;
+    background-color: #fff;
+    margin-right: 10px;
+    color: #fff;
+    border: 0;
+    background-position: center; 
+    
+    
+       
+}
+
+
+.main7{
+    background-image: url(tesla7.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main7-1{
+
+}
+.main8{
+    background-image: url(tesla8.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main9{
+    background-image: url(tesla9.0.avif);
+    width: 100vw;
+    background-size:cover;
+    height: 800px
+}
+.main9-1{
+    height: 500px;
+    width: 100px;
+    background-position: center;
+    color: #fff;
+    padding-top: 150px;
+    padding-left:45%;
+    font-size: 20px;
+}
+.main-9{
+    height:100px;
+    width:10px;
+    margin-left:45% ;
+   
+}
+.main-9 button{
+    height: 48px;
+    width: 250px;
+    background-color: blue;
+    color: #fff;
+    
+    
+}
+.foot{
+padding-left: 50px;
+height: 500px;
+background-color: black;
+padding-top: 25px;
+}
+.foot p{
+    font-size: 13px;
+    text-indent: 10px;
+    text-align: center;
+    color: #fff;
+}
+.foot2{
+    color: #fff;
+    font-size:11px ;
+    text-align: center;
+    padding-top: 70px;
+    height: 50px;
+    word-spacing: 15px;
+}
+.sticky{
+    color: black;
+}
+
+
+
